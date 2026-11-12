@@ -1,16 +1,11 @@
 ---
 name: repo-audit
 description: Check a repo’s git history before opening source files. Use it when exploring an unfamiliar codebase, triaging a repo, or choosing where to look first. Five git commands reveal churn hotspots, contributor concentration, bug-prone files, delivery pace, and firefighting patterns.
-licence: MIT
+license: MIT
 metadata:
     author: mikebradbury-flutterint
     version: "0.1.0"
-    tags:
-        - git
-        - codebase-analysis
-        - triage
-        - diagnostics
-        - software-engineering
+    tags: "git, codebase-analysis, triage, diagnostics, software-engineering"
 ---
 
 # repo-audit

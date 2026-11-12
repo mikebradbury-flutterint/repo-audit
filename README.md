@@ -2,7 +2,7 @@
 
 repo-audit is a lightweight skill for inspecting a repository's git history before reading implementation files.
 
-It packages a simple five-command workflow inspired and turns it into a reusable skill for AI agents and humans doing first-pass codebase triage.
+It packages a simple five-command workflow and turns it into a reusable skill for AI agents and humans doing first-pass codebase triage.
 
 ## What it does
 
